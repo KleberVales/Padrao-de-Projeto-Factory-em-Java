@@ -10,3 +10,6 @@
 
  ### Entrada de Exemplo 1
  ![imagens/img1.png](imagens/img1.png)
+
+ ### Saída de Exemplo 1
+ ![imagens/img2.png](imagens/img2.png)
