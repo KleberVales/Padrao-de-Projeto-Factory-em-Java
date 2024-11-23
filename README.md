@@ -7,3 +7,5 @@
  A função principal, na classe Main, cria uma instância da classe FoodFactory. A classe FoodFactory contém um método chamado getFood(String) que retorna uma nova instância de Pizza ou Cake, dependendo do parâmetro recebido.
 
  Seu objetivo é completar a implementação da classe FoodFactory.
+
+ ### Entrada de Exemplo 1
