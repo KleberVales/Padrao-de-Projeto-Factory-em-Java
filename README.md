@@ -9,3 +9,4 @@
  Seu objetivo é completar a implementação da classe FoodFactory.
 
  ### Entrada de Exemplo 1
+ ![imagens/img1.png](imagens/img1.png)
