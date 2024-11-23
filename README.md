@@ -13,3 +13,7 @@
 
  ### Saída de Exemplo 1
  ![imagens/img2.png](imagens/img2.png)
+
+ ### Entrada de Exemplo 2
+ ![imagens/img3.png](imagens/img3.png)
+
